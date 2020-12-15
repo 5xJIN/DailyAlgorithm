@@ -1,5 +1,5 @@
 """
-# Runtime : 64 ms
+# Runtime : 60 ms
 # Memory : 14.4 MB
 """
 class Solution:
@@ -15,12 +15,10 @@ class Solution:
                 origin = origin // 10
                 revert += remainder
 
-            if x == revert:
-                return True
+            return x == revert
 
         else:
             if x == 0:
                 return True
-
-            elif x < 0 or (x % 10) == 0:
+            else:
                 return False
