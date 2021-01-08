@@ -1,6 +1,6 @@
 """
-Min : 0.00ms, 10.1MB
-Max : 0.01ms, 10.2MB
+Min : 0.01ms, 10.3MB
+Max : 0.02ms, 10.3MB
 """
 
 def solution(n):
