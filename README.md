@@ -35,6 +35,10 @@
 | 21 | [정수 내림차순으로 배치하기] | [Python3](./Programmers/정수내림차순으로배치하기.py) | Level1 | 2021/01/20 |
 | 22 | [정수 제곱근 판별] | [Python3](./Programmers/정수제곱근판별.py) | Level1 | 2021/01/26 |
 | 23 | [제일 작은 수 제거하기] | [Python3](./Programmers/제일작은수제거하기.py) | Level1 | 2021/01/26 |
+| 24 | [짝수와 홀수] | [Python3](./Programmers/짝수와홀수.py) | Level1 | 2021/02/01 |
+| 25 | [최대공약수와 최소공배수] | [Python3](./Programmers/최대공약수와최소공배수.py) | Level1 | 2021/02/01 | 
+| 26 | [예산] | [Python3](./Programmers/예산.py) | Level1 | 2021/02/01 |
+| 27 | [콜라츠 추측] | [Python3](./Programmers/콜라츠추측.py) | Level1 | 2021/02/01 |
 
 
 ## LeetCode
@@ -70,3 +74,7 @@
 [정수 내림차순으로 배치하기]: https://programmers.co.kr/learn/courses/30/lessons/12933
 [정수 제곱근 판별]: https://programmers.co.kr/learn/courses/30/lessons/12934
 [제일 작은 수 제거하기]: https://programmers.co.kr/learn/courses/30/lessons/12935
+[짝수와 홀수]: https://programmers.co.kr/learn/courses/30/lessons/12937
+[최대공약수와 최소공배수]: https://programmers.co.kr/learn/courses/30/lessons/12940 
+[예산]: https://programmers.co.kr/learn/courses/30/lessons/12982
+[콜라츠 추측]: https://programmers.co.kr/learn/courses/30/lessons/12943
