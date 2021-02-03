@@ -21,7 +21,7 @@
 | 7 | [두 정수 사이의 합] | [Python3](./Programmers/두정수사이의합.py) | Level1 | 2020/01/05 |
 | 8 | [문자열 내 마음대로 정렬하기] | [Python3](./Programmers/문자열내마음대로정렬하기.py) | Level1 | 2020/01/05 |
 | 9 | [문자열 내림차순으로 배치하기] | [Python3](./Programmers/문자열내림차순으로배치하기.py) | Level1 | 2020/01/05 |
-| 10 | [가장 큰 수] | [Python3](./Programmers/가장큰수.py) | Level2 | 2020/01/07 |
+| 10 | [가장 큰 수] | [Python3](./Programmers_Level2/가장큰수.py) | Level2 | 2020/01/07 |
 | 11 | [문자열 다루기 기본] | [Python3](./Programmers/1문자열다루기기본.py) | Level1 | 2020/01/08 |
 | 12 | [서울에서 김서방 찾기] | [Python3](./Programmers/서울에서김서방찾기.py) | Level1 | 2020/01/08 |
 | 13 | [수박수박수박수박수박수박수] | [Python3](./Programmers/수박수박수박수박수박수박수.py) | Level1 | 2020/01/08 |
@@ -85,3 +85,10 @@
 [최대공약수와 최소공배수]: https://programmers.co.kr/learn/courses/30/lessons/12940 
 [예산]: https://programmers.co.kr/learn/courses/30/lessons/12982
 [콜라츠 추측]: https://programmers.co.kr/learn/courses/30/lessons/12943
+[평균 구하기]: https://programmers.co.kr/learn/courses/30/lessons/12944
+[하샤드 수]: https://programmers.co.kr/learn/courses/30/lessons/12947
+[핸드폰 번호 가리기]: https://programmers.co.kr/learn/courses/30/lessons/12948
+[행렬의 덧셈]: https://programmers.co.kr/learn/courses/30/lessons/12950
+[x만큼 간격이 있는 n개의 숫자]: https://programmers.co.kr/learn/courses/30/lessons/12954
+[직사각형 별찍기]: https://programmers.co.kr/learn/courses/30/lessons/12969
+[기능개발]: https://programmers.co.kr/learn/courses/30/lessons/42586
