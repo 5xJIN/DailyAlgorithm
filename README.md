@@ -38,7 +38,14 @@
 | 24 | [짝수와 홀수] | [Python3](./Programmers/짝수와홀수.py) | Level1 | 2021/02/01 |
 | 25 | [최대공약수와 최소공배수] | [Python3](./Programmers/최대공약수와최소공배수.py) | Level1 | 2021/02/01 | 
 | 26 | [예산] | [Python3](./Programmers/예산.py) | Level1 | 2021/02/01 |
-| 27 | [콜라츠 추측] | [Python3](./Programmers/콜라츠추측.py) | Level1 | 2021/02/01 |
+| 27 | [콜라츠 추측] | [Python3](./Programmers/콜라츠추측.py) | Level1 | 2021/02/02 |
+| 28 | [평균 구하기] | [Python3](./Programmers/평군구하기.py) | Level1 | 2021/02/02 |
+| 29 | [하샤드 수] | [Python3](./Programmers/하샤드수.py) | Level1 | 2021/02/02 |
+| 30 | [핸드폰 번호 가리기] | [Python3](./Programmers/핸드폰번호가리기.py) | Level1 | 2021/02/02 |
+| 31 | [행렬의 덧셈] | [Python3](./Programmers/행렬의덧셈.py) | Level1 | 2021/02/02 |
+| 32 | [x만큼 간격이 있는 n개의 숫자] | [Python3](./Programmers/x만큼간격이있는n개의숫자.py) | Level1 | 2021/02/02 |
+| 33 | [직사각형 별찍기] | [Python3](./Programmers/직사각형별찍기.py) | Level1 | 2021/02/02 |
+| 34 | [기능개발] | [Python3](./Programmers_Level2/직사각형별찍기.py) | Level2 | 2021/02/02 |
 
 
 ## LeetCode
