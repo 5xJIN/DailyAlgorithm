@@ -47,6 +47,7 @@
 | 33 | [직사각형 별찍기] | [Python3](./Programmers/직사각형별찍기.py)             | Level1 | 2021/02/02 |
 | 34 | [기능개발] | [Python3](./Programmers_Level2/직사각형별찍기.py)      | Level2 | 2021/02/02 |
 | 35 | [로또의 최고 순위와 최저 순위] | [Python3](./2021Dev-Matching(Backend)/lotto.py) | Level2 | 2021/12/14 |
+| 36 | [다단계 칫솔 판매] | [Python3](./2021Dev-Matching(Backend)/selling.py) | Level3 | 2021/12/27 |
 
 
 ## LeetCode
@@ -94,3 +95,4 @@
 [직사각형 별찍기]: https://programmers.co.kr/learn/courses/30/lessons/12969
 [기능개발]: https://programmers.co.kr/learn/courses/30/lessons/42586
 [로또의 최고 순위와 최저 순위]: https://programmers.co.kr/learn/courses/30/lessons/77484
+[다단계 칫솔 판매] : https://programmers.co.kr/learn/courses/30/lessons/77486
